@@ -1,5 +1,4 @@
 
 #支持私库
-ddsrem.com/xiaoya_install.sh
 #支持指定架构
-
+docker pull xiaoyaliu/alist
